@@ -1,0 +1,21 @@
+{
+  "name": "site_resp",
+  "homepage": "https://github.com/laydianne/criando-site",
+  "authors": [
+    "Laydianne Gramosa <laydiannenaira2012@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
