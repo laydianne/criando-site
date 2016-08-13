@@ -1,0 +1,21 @@
+.logo{
+    background: url('images/logo-tag-top');
+}
+.texto{
+    font-family: OpenSans;
+}
+.gradients{
+    background: -webkit-linear-gradient(0deg, #9ad15e 0%, #31b1e7 100%);
+    background: -moz-linear-gradient(0deg, #9ad15e 0%, #31b1e7 100%);
+    background: -o-linear-gradient(0deg, #9ad15e 0%, #31b1e7 100%);
+    background: -ms-linear-gradient(0deg, #9ad15e 0%, #31b1e7 100%);
+    background: linear-gradient(0deg, #9ad15e 0%, #31b1e7 100%);
+}
+.botao{
+    border-color: #000;
+    border-width: 2px;
+}
+
+.slider{
+    background: url('images/slider-pagina-inicial.png');
+}
